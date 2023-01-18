@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.listener.SetRetry"/>
+    <listener class-name="com.listener.MyListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.tests.UsersPageTest">
+        <methods>
+          <include name="TC005_verify_Users_Gender"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="TC006_verify_Users_MobileNumber"/>
+          <include name="TC004_verify_Users_Email_Address"/>
+        </methods>
+      </class> <!-- com.tests.UsersPageTest -->
+      <class name="com.tests.LoginPageTest">
+        <methods>
+          <include name="TC009_verify_Valid_Login_Credential_Scenario" invocation-numbers="0 0 0 1 1 2 2 3 3 4 4 5 5 6 6"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

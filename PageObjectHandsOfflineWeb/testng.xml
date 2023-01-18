@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="com.listener.SetRetry"></listener>
+		<listener class-name="com.listener.MyListener"></listener>
+
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.tests.LoginPageTest" />
+			<class name="com.tests.RegistrationPageTest" />
+			<class name="com.tests.DashboardPageTest" />
+			<class name="com.tests.UsersPageTest" />
+			<class name="com.tests.OperatorsPageTest" />
+			<class name="com.tests.UsefulLinksPageTest" />
+			<class name="com.tests.DownloadsPageTest" />
+			
+		</classes>
+	</test>
+</suite> 

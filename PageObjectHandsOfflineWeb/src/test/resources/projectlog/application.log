@@ -1,0 +1,314 @@
+2022-08-02 19:30:33,883  INFO [main] BasePage:18 - Creating object of ExtentReports & ExtentSparkReporter
+2022-08-02 19:30:34,126  INFO [main] BasePage:20 - Initializing Browser.
+2022-08-02 19:30:34,127  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:30:34,128  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:30:35,791  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:30:35,927  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:30:35,928  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:30:36,881  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:30:36,903  INFO [main] BasePage:22 - Loading login page.
+2022-08-02 19:30:36,935  INFO [main] BasePage:36 - verify the logo on login page
+2022-08-02 19:30:36,999  INFO [main] BasePage:53 - Page logo is displayed.
+2022-08-02 19:30:37,011  INFO [main] BasePage:43 - Verify the heading on login page
+2022-08-02 19:30:37,041  INFO [main] BasePage:74 - Page heading matches as expected.
+2022-08-02 19:30:37,045  INFO [main] BasePage:50 - Verify the coursename on login page
+2022-08-02 19:30:37,070  INFO [main] BasePage:96 - Page course name matches as expected.
+2022-08-02 19:30:37,071  INFO [main] BasePage:57 - Verify an email error message when login credentials entered.
+2022-08-02 19:30:37,468  INFO [main] BasePage:182 - Email error message is as expected
+2022-08-02 19:30:37,472  INFO [main] BasePage:64 - Verify a password error message when login credentials entered.
+2022-08-02 19:30:37,869  INFO [main] BasePage:152 - Password error message is as expected
+2022-08-02 19:30:37,875  INFO [main] BasePage:71 - Verify an email invalid error message when login credentials entered.
+2022-08-02 19:30:38,293  INFO [main] BasePage:212 - Email invalid error message is as expected
+2022-08-02 19:30:38,295  INFO [main] BasePage:78 - Verify a password invalid error message when login credentials entered.
+2022-08-02 19:30:38,707  INFO [main] BasePage:242 - Password invalid error message is as expected
+2022-08-02 19:30:38,708  INFO [main] BasePage:85 - Verify register link is working/clickable.
+2022-08-02 19:30:38,941  INFO [main] BasePage:122 - Register link after clicking page title matches as expected.
+2022-08-02 19:30:39,528  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:39,864  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:39,932  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:40,235  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:40,287  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:40,560  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:40,563  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:40,722  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:40,739  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:40,751  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:41,052  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:41,052  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:41,200  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:41,200  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:41,245  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:41,556  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:41,561  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:41,684  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:41,684  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:41,684  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:42,024  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:42,025  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:42,168  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:42,172  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:42,221  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:42,567  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:42,569  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:42,704  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:42,709  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:42,710  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:43,038  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:43,040  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:43,166  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:43,166  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:43,232  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:43,562  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:43,563  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:43,762  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:43,762  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:43,762  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:44,120  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:44,122  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:44,232  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:44,247  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:44,310  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:44,634  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:44,635  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:44,763  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:44,763  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:44,763  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:45,118  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:45,119  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:45,251  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:45,254  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:45,296  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:45,610  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:45,611  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:45,742  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:45,745  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:45,747  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:46,081  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:46,083  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:46,212  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:46,229  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:46,278  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:46,598  INFO [main] BasePage:40 - Failed to login.
+2022-08-02 19:30:46,600  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:30:46,731  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:30:46,731  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:30:46,731  INFO [main] BasePage:92 - Verify a valid login credentials entered using dataprovider.
+2022-08-02 19:30:50,095  INFO [main] BasePage:34 - Entered Login credential is correct and login successfully.
+2022-08-02 19:30:50,762  INFO [main] BasePage:29 - Webdriver instance quit successfully.
+2022-08-02 19:30:50,762  INFO [main] BasePage:19 - Initializing Browser.
+2022-08-02 19:30:50,762  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:30:50,762  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:30:51,831  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:30:51,954  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:30:51,954  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:30:53,477  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:30:53,499  INFO [main] BasePage:21 - Loading login page and navigating to register page.
+2022-08-02 19:30:53,674  INFO [main] BasePage:34 - Verify a message after adding a new user registration.
+2022-08-02 19:30:54,324  INFO [main] BasePage:44 - Alert text matches as expected
+2022-08-02 19:30:54,325  INFO [main] BasePage:41 - Verify already user link is working/clickable.
+2022-08-02 19:30:54,647  INFO [main] BasePage:70 - Already register link after clicking page title matches as expected.
+2022-08-02 19:30:54,649  INFO [main] BasePage:48 - Verify an error message when blank user name entered.
+2022-08-02 19:30:55,258  INFO [main] BasePage:103 - Username error message is as expected
+2022-08-02 19:30:55,260  INFO [main] BasePage:55 - Verify an error message when blank mobile number entered.
+2022-08-02 19:30:55,878  INFO [main] BasePage:136 - User mobile number error message is as expected
+2022-08-02 19:30:55,884  INFO [main] BasePage:62 - Verify an error message when blank email address entered.
+2022-08-02 19:30:56,478  INFO [main] BasePage:169 - User email address error message is as expected
+2022-08-02 19:30:56,481  INFO [main] BasePage:69 - Verify an error message when blank password entered.
+2022-08-02 19:30:57,092  INFO [main] BasePage:202 - User password error message is as expected
+2022-08-02 19:30:57,748  INFO [main] BasePage:28 - Webdriver instance quit successfully.
+2022-08-02 19:30:57,749  INFO [main] BasePage:20 - Initializing Browser.
+2022-08-02 19:30:57,749  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:30:57,749  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:30:58,828  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:30:58,988  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:30:58,988  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:00,174  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:31:00,206  INFO [main] BasePage:22 - Loading login page and navigating to Dashboard page.
+2022-08-02 19:31:02,922  INFO [main] BasePage:35 - Verify a course name & details of respective course on dashboard page.
+2022-08-02 19:31:03,200  INFO [main] BasePage:49 - Php : Web Development
+2022-08-02 19:31:03,201  INFO [main] BasePage:49 - Java / J2EE : Software Development
+2022-08-02 19:31:03,201  INFO [main] BasePage:49 - Selenium : Automation Testing
+2022-08-02 19:31:03,201  INFO [main] BasePage:49 - Python : Data Science
+2022-08-02 19:31:03,201  INFO [main] BasePage:58 - Php : Web Development
+2022-08-02 19:31:03,201  INFO [main] BasePage:58 - Java / J2EE : Software Development
+2022-08-02 19:31:03,201  INFO [main] BasePage:58 - Selenium : Automation Testing
+2022-08-02 19:31:03,201  INFO [main] BasePage:58 - Python : Data Science
+2022-08-02 19:31:03,201  INFO [main] BasePage:64 - courses and course details on dashboard page matches with as expected.
+2022-08-02 19:31:03,201  INFO [main] BasePage:42 - Verify more info links on dashboard page.
+2022-08-02 19:31:04,023  INFO [main] BasePage:182 - More info link after clicking all window size matches with as expected.
+2022-08-02 19:31:04,025  INFO [main] BasePage:49 - Verify text of side menubar links on dashboard page.
+2022-08-02 19:31:04,165  INFO [main] BasePage:93 - Actual list : [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2022-08-02 19:31:04,165  INFO [main] BasePage:94 - Expected list : [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2022-08-02 19:31:04,165  INFO [main] BasePage:98 - Side menubar link text on dashboard page matches with as expected.
+2022-08-02 19:31:04,167  INFO [main] BasePage:56 - Verify all webpage title after clicking on side menubar links.
+2022-08-02 19:31:35,229  INFO [main] BasePage:129 - Actual list : [JavaByKiran | Dashboard, JavaByKiran | User, JavaByKiran | Operators, JavaByKiran | Useful Links, JavaByKiran | Downloads, JavaByKiran | Log in]
+2022-08-02 19:31:35,229  INFO [main] BasePage:130 - Expected list : [JavaByKiran | Dashboard, JavaByKiran | User, JavaByKiran | Operators, JavaByKiran | Useful Links, JavaByKiran | Downloads, JavaByKiran | Log in]
+2022-08-02 19:31:35,604  INFO [main] BasePage:142 - Side menubar link after clicking all page title matches with as expected.
+2022-08-02 19:31:36,447  INFO [main] BasePage:29 - Webdriver instance quit successfully.
+2022-08-02 19:31:36,447  INFO [main] BasePage:20 - Initializing Browser.
+2022-08-02 19:31:36,447  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:31:36,447  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:37,532  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:31:37,664  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:31:37,664  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:38,732  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:31:38,758  INFO [main] BasePage:22 - Loading login page and navigating to User page.
+2022-08-02 19:31:40,352  INFO [main] BasePage:35 - Verify users webtable data on user page.
+2022-08-02 19:31:40,679  INFO [main] BasePage:40 - Actual list : [1, Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete, 2, Sagar, sagar@javabykiran.com, 999999999, Selenium, Male, Punjab, Delete, 3, Monica, monica@gmail.com, 1111111111, Python, Female1, Maharashtra, Delete, 4, Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]
+2022-08-02 19:31:40,679  INFO [main] BasePage:41 - Expected list : [1, Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete, 2, Sagar, sagar@javabykiran.com, 999999999, Selenium, Male, Punjab, Delete, 3, Monica, monica@gmail.com, 1111111111, Python, Female1, Maharashtra, Delete, 4, Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]
+2022-08-02 19:31:40,679  INFO [main] BasePage:45 - Users table data matches with as expected.
+2022-08-02 19:31:40,679  INFO [main] BasePage:42 - Verify data of user name & with respective user course.
+2022-08-02 19:31:40,929  INFO [main] BasePage:74 - Actual Map : {Kiran=Java/J2EE, Sagar=Selenium, Kimaya=PHP, Monica=Python}
+2022-08-02 19:31:40,929  INFO [main] BasePage:75 - Expected Map : {Kiran=Java/J2EE, Sagar=Selenium, Kimaya=PHP, Monica=Python}
+2022-08-02 19:31:40,929  INFO [main] BasePage:79 - Users name and their courses matches with as expected.
+2022-08-02 19:31:40,929  INFO [main] BasePage:49 - Verify data of user name & with respective user state.
+2022-08-02 19:31:41,171  INFO [main] BasePage:107 - Actual Map : {Kiran=Maharashtra, Sagar=Punjab, Kimaya=Punjab, Monica=Maharashtra}
+2022-08-02 19:31:41,171  INFO [main] BasePage:108 - Expected Map : {Kiran=Maharashtra, Sagar=Punjab, Kimaya=Punjab, Monica=Maharashtra}
+2022-08-02 19:31:41,171  INFO [main] BasePage:112 - Users name and their states matches with as expected.
+2022-08-02 19:31:41,176  INFO [main] BasePage:56 - Verify data of user name & with respective user email address.
+2022-08-02 19:31:41,176  INFO [main] BasePage:105 - Reading excel sheet for Testcase expected data
+2022-08-02 19:31:41,199  INFO [main] BasePage:131 - Excel sheet data read successfully.
+2022-08-02 19:31:41,414  INFO [main] BasePage:146 - Actual Map : {Kiran=kiran@gmail.com, Kimaya=kimaya@gmail.com, Monica=monica@gmail.com}
+2022-08-02 19:31:41,414  INFO [main] BasePage:147 - Expected Map : {Kiran=kiran@gmail.com, Sagar=sagar@javabykiran.com, Kimaya=kimaya@gmail.com, Monica=monica@gmail.com}
+2022-08-02 19:31:41,414  INFO [main] BasePage:157 - Users name and their emails doesn't matches with as expected.
+2022-08-02 19:31:41,419  INFO [main] BasePage:56 - Verify data of user name & with respective user email address.
+2022-08-02 19:31:41,419  INFO [main] BasePage:105 - Reading excel sheet for Testcase expected data
+2022-08-02 19:31:41,441  INFO [main] BasePage:131 - Excel sheet data read successfully.
+2022-08-02 19:31:41,636  INFO [main] BasePage:146 - Actual Map : {Kiran=kiran@gmail.com, Kimaya=kimaya@gmail.com, Monica=monica@gmail.com}
+2022-08-02 19:31:41,636  INFO [main] BasePage:147 - Expected Map : {Kiran=kiran@gmail.com, Sagar=sagar@javabykiran.com, Kimaya=kimaya@gmail.com, Monica=monica@gmail.com}
+2022-08-02 19:31:41,636  INFO [main] BasePage:157 - Users name and their emails doesn't matches with as expected.
+2022-08-02 19:31:41,636  INFO [main] BasePage:56 - Verify data of user name & with respective user email address.
+2022-08-02 19:31:41,636  INFO [main] BasePage:105 - Reading excel sheet for Testcase expected data
+2022-08-02 19:31:41,652  INFO [main] BasePage:131 - Excel sheet data read successfully.
+2022-08-02 19:31:41,874  INFO [main] BasePage:146 - Actual Map : {Kiran=kiran@gmail.com, Kimaya=kimaya@gmail.com, Monica=monica@gmail.com}
+2022-08-02 19:31:41,874  INFO [main] BasePage:147 - Expected Map : {Kiran=kiran@gmail.com, Sagar=sagar@javabykiran.com, Kimaya=kimaya@gmail.com, Monica=monica@gmail.com}
+2022-08-02 19:31:41,874  INFO [main] BasePage:157 - Users name and their emails doesn't matches with as expected.
+2022-08-02 19:31:41,874  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:31:41,979  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:31:41,995  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:31:41,999  INFO [main] BasePage:63 - Verify data of user name & with respective user gender.
+2022-08-02 19:31:41,999  INFO [main] BasePage:105 - Reading excel sheet for Testcase expected data
+2022-08-02 19:31:42,016  INFO [main] BasePage:131 - Excel sheet data read successfully.
+2022-08-02 19:31:42,243  INFO [main] BasePage:185 - Actual Map : {Kiran=Male, Sagar=Male, Kimaya=Female}
+2022-08-02 19:31:42,243  INFO [main] BasePage:186 - Expected Map : {Kiran=Male, Sagar=Male, Kimaya=Female, Monica=Female1}
+2022-08-02 19:31:42,243  INFO [main] BasePage:195 - Users name and their genders doesn't matches with as expected.
+2022-08-02 19:31:42,250  INFO [main] BasePage:63 - Verify data of user name & with respective user gender.
+2022-08-02 19:31:42,250  INFO [main] BasePage:105 - Reading excel sheet for Testcase expected data
+2022-08-02 19:31:42,265  INFO [main] BasePage:131 - Excel sheet data read successfully.
+2022-08-02 19:31:42,469  INFO [main] BasePage:185 - Actual Map : {Kiran=Male, Sagar=Male, Kimaya=Female}
+2022-08-02 19:31:42,469  INFO [main] BasePage:186 - Expected Map : {Kiran=Male, Sagar=Male, Kimaya=Female, Monica=Female1}
+2022-08-02 19:31:42,469  INFO [main] BasePage:195 - Users name and their genders doesn't matches with as expected.
+2022-08-02 19:31:42,475  INFO [main] BasePage:63 - Verify data of user name & with respective user gender.
+2022-08-02 19:31:42,475  INFO [main] BasePage:105 - Reading excel sheet for Testcase expected data
+2022-08-02 19:31:42,486  INFO [main] BasePage:131 - Excel sheet data read successfully.
+2022-08-02 19:31:42,714  INFO [main] BasePage:185 - Actual Map : {Kiran=Male, Sagar=Male, Kimaya=Female}
+2022-08-02 19:31:42,714  INFO [main] BasePage:186 - Expected Map : {Kiran=Male, Sagar=Male, Kimaya=Female, Monica=Female1}
+2022-08-02 19:31:42,714  INFO [main] BasePage:195 - Users name and their genders doesn't matches with as expected.
+2022-08-02 19:31:42,714  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:31:42,840  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:31:42,840  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:31:42,840  INFO [main] BasePage:70 - Verify data of user name & with respective user mobile number.
+2022-08-02 19:31:43,238  INFO [main] BasePage:223 - Actual Map : {Kiran=9898989898, Monica=1111111111}
+2022-08-02 19:31:43,238  INFO [main] BasePage:224 - Expected Map : {Kiran=9898989898, Sagar=999999999, Kimaya=999999999, Monica=1111111111}
+2022-08-02 19:31:43,238  INFO [main] BasePage:233 - Users name and their mobile numbers having ten digit doesn't matches with as expected.
+2022-08-02 19:31:43,238  INFO [main] BasePage:70 - Verify data of user name & with respective user mobile number.
+2022-08-02 19:31:43,542  INFO [main] BasePage:223 - Actual Map : {Kiran=9898989898, Monica=1111111111}
+2022-08-02 19:31:43,542  INFO [main] BasePage:224 - Expected Map : {Kiran=9898989898, Sagar=999999999, Kimaya=999999999, Monica=1111111111}
+2022-08-02 19:31:43,542  INFO [main] BasePage:233 - Users name and their mobile numbers having ten digit doesn't matches with as expected.
+2022-08-02 19:31:43,542  INFO [main] BasePage:70 - Verify data of user name & with respective user mobile number.
+2022-08-02 19:31:43,849  INFO [main] BasePage:223 - Actual Map : {Kiran=9898989898, Monica=1111111111}
+2022-08-02 19:31:43,849  INFO [main] BasePage:224 - Expected Map : {Kiran=9898989898, Sagar=999999999, Kimaya=999999999, Monica=1111111111}
+2022-08-02 19:31:43,849  INFO [main] BasePage:233 - Users name and their mobile numbers having ten digit doesn't matches with as expected.
+2022-08-02 19:31:43,849  INFO [main] BasePage:17 - Taking screenshot of failed test cases
+2022-08-02 19:31:43,974  INFO [main] BasePage:28 - Copying screenshot from source folder to destination folder
+2022-08-02 19:31:43,974  INFO [main] BasePage:38 - Screenshot taken successfully and return path of screenshot folder
+2022-08-02 19:31:43,974  INFO [main] BasePage:77 - Verify users can be deleted with delete button.
+2022-08-02 19:31:44,505  INFO [main] BasePage:282 - Actual list : [You can not delete Default User, Are you sure you want to delete this user, User deleted successfully., You can not delete Default User, Are you sure you want to delete this user, User deleted successfully.]
+2022-08-02 19:31:44,505  INFO [main] BasePage:283 - Expected list : [You can not delete Default User, Are you sure you want to delete this user, User deleted successfully., You can not delete Default User, Are you sure you want to delete this user, User deleted successfully.]
+2022-08-02 19:31:44,505  INFO [main] BasePage:287 - Delete button after clicking all alert messages matches with as expected.
+2022-08-02 19:31:44,506  INFO [main] BasePage:84 - Verify new user added successfully message after entering a valid information.
+2022-08-02 19:31:45,953  INFO [main] BasePage:338 - New user added successfully message is as expectd.
+2022-08-02 19:31:46,604  INFO [main] BasePage:29 - Webdriver instance quit successfully.
+2022-08-02 19:31:46,604  INFO [main] BasePage:20 - Initializing Browser.
+2022-08-02 19:31:46,604  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:31:46,604  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:47,651  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:31:47,771  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:31:47,771  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:48,547  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:31:48,579  INFO [main] BasePage:22 - Loading login page and navigating to operators page.
+2022-08-02 19:31:50,025  INFO [main] BasePage:35 - Verify operators webtable data on operators page.
+2022-08-02 19:31:51,254  INFO [main] BasePage:38 - Actual list : [01, Kiran, Urgent Technical Help, Whats App Only, 9552343698, 07:00 AM to 10:00 PM Monday-Sunday, 02, Neelam, Technical Discussion (Errors, Software, Technical Materials), Whats App Phone Call SMS eMail, 7066885937, 09:00 AM to 06:00 PM Monday-Saturday, 03, Seema, Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Whats App Phone Call SMS eMail, 8888558802, 09:00 AM to 06:00 PM Monday-Saturday, 04, Varsha, Enquiry(Course Details, Fees, Enquiry), Whats App Phone Call SMS eMail, 8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday, 05, Darshit, Technical Help, Whats App Only, 8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]
+2022-08-02 19:31:51,254  INFO [main] BasePage:39 - Expected list : [01, Kiran, Urgent Technical Help, Whats App Only, 9552343698, 07:00 AM to 10:00 PM Monday-Sunday, 02, Neelam, Technical Discussion (Errors, Software, Technical Materials), Whats App Phone Call SMS eMail, 7066885937, 09:00 AM to 06:00 PM Monday-Saturday, 03, Seema, Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Whats App Phone Call SMS eMail, 8888558802, 09:00 AM to 06:00 PM Monday-Saturday, 04, Varsha, Enquiry(Course Details, Fees, Enquiry), Whats App Phone Call SMS eMail, 8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday, 05, Darshit, Technical Help, Whats App Only, 8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]
+2022-08-02 19:31:51,254  INFO [main] BasePage:43 - Operators table data matches with as expected.
+2022-08-02 19:31:51,254  INFO [main] BasePage:42 - Verify all technical operators on operators page.
+2022-08-02 19:31:51,582  INFO [main] BasePage:179 - Actual list : {Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials), Darshit=Technical Help}
+2022-08-02 19:31:51,582  INFO [main] BasePage:180 - Expected list : {Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials), Darshit=Technical Help}
+2022-08-02 19:31:51,582  INFO [main] BasePage:184 - Operators name and their Technical courses matches with as expected.
+2022-08-02 19:31:51,582  INFO [main] BasePage:49 - Verify connect without whatsapp to operators.
+2022-08-02 19:31:51,882  INFO [main] BasePage:85 - Actual Map : {Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail, Varsha=Whats App Phone Call SMS eMail}
+2022-08-02 19:31:51,882  INFO [main] BasePage:86 - Expected Map : {Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail, Varsha=Whats App Phone Call SMS eMail}
+2022-08-02 19:31:51,882  INFO [main] BasePage:90 - Operators name and way to connect them by without whatsapp matches with as expected.
+2022-08-02 19:31:51,884  INFO [main] BasePage:56 - Verify connect with whatsapp to operators.
+2022-08-02 19:31:52,193  INFO [main] BasePage:130 - Actual list : {Kiran=Whats App Only, Darshit=Whats App Only}
+2022-08-02 19:31:52,193  INFO [main] BasePage:131 - Expected list : {Kiran=Whats App Only, Darshit=Whats App Only}
+2022-08-02 19:31:52,193  INFO [main] BasePage:135 - Operators name and way to connect them by whatsapp only matches with as expected.
+2022-08-02 19:31:52,201  INFO [main] BasePage:63 - Verify monday is working time of operators.
+2022-08-02 19:31:52,489  INFO [main] BasePage:229 - Actual list : {Neelam=09:00 AM to 06:00 PM Monday-Saturday, Kiran=07:00 AM to 10:00 PM Monday-Sunday, Seema=09:00 AM to 06:00 PM Monday-Saturday, Varsha=09:00 AM to 06:00 PM Monday to Friday and Sunday}
+2022-08-02 19:31:52,489  INFO [main] BasePage:230 - Expected list : {Neelam=09:00 AM to 06:00 PM Monday-Saturday, Kiran=07:00 AM to 10:00 PM Monday-Sunday, Seema=09:00 AM to 06:00 PM Monday-Saturday, Varsha=09:00 AM to 06:00 PM Monday to Friday and Sunday}
+2022-08-02 19:31:52,489  INFO [main] BasePage:234 - Operators name and their Monday timing matches with as expected.
+2022-08-02 19:31:52,494  INFO [main] BasePage:70 - Verify working timing of all operators.
+2022-08-02 19:31:52,781  INFO [main] BasePage:319 - Actual list : {Neelam=09:00 AM to 06:00 PM Monday-Saturday, Seema=09:00 AM to 06:00 PM Monday-Saturday, Varsha=09:00 AM to 06:00 PM Monday to Friday and Sunday}
+2022-08-02 19:31:52,781  INFO [main] BasePage:320 - Expected list : {Neelam=09:00 AM to 06:00 PM Monday-Saturday, Seema=09:00 AM to 06:00 PM Monday-Saturday, Varsha=09:00 AM to 06:00 PM Monday to Friday and Sunday}
+2022-08-02 19:31:52,781  INFO [main] BasePage:324 - Operators name and their timing matches with as expected.
+2022-08-02 19:31:52,781  INFO [main] BasePage:77 - Verify mobile number of all operators.
+2022-08-02 19:31:53,056  INFO [main] BasePage:269 - Actual list : {Neelam=7066885937, Kiran=9552343698, Seema=8888558802, Varsha=8888809416, Darshit=8866888662}
+2022-08-02 19:31:53,056  INFO [main] BasePage:270 - Expected list : {Neelam=7066885937, Kiran=9552343698, Seema=8888558802, Varsha=8888809416, Darshit=8866888662}
+2022-08-02 19:31:53,056  INFO [main] BasePage:274 - Operators name and their mobile number matches with as expected.
+2022-08-02 19:31:53,713  INFO [main] BasePage:29 - Webdriver instance quit successfully.
+2022-08-02 19:31:53,713  INFO [main] BasePage:20 - Initializing Browser.
+2022-08-02 19:31:53,713  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:31:53,713  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:54,782  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:31:54,912  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:31:54,912  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:31:55,793  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:31:55,816  INFO [main] BasePage:22 - Loading login page and navigating to usefullinks page.
+2022-08-02 19:31:57,518  INFO [main] BasePage:36 - Verify usefullinks webtable data on usefullinks page.
+2022-08-02 19:31:57,708  INFO [main] BasePage:40 - Actual list : [01, Schedule, Go !, 02, Video Lactures All Topics, Go !, 03, Selenium Interview Questions, Go !, 04, Java Interview Questions, Go !, 05, Courses, Go !, 06, Placement, Go !]
+2022-08-02 19:31:57,708  INFO [main] BasePage:41 - Expected list : [01, Schedule, Go !, 02, Video Lactures All Topics, Go !, 03, Selenium Interview Questions, Go !, 04, Java Interview Questions, Go !, 05, Courses, Go !, 06, Placement, Go !]
+2022-08-02 19:31:57,708  INFO [main] BasePage:45 - Useful links table data matches with as expected.
+2022-08-02 19:31:57,708  INFO [main] BasePage:43 - Verify content links title of usefullinks page.
+2022-08-02 19:32:51,144  INFO [main] BasePage:99 - Actual list : [Placement | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Live Videos | javabyKiran, Page not found | javabyKiran]
+2022-08-02 19:32:51,144  INFO [main] BasePage:100 - Expected list : [Placement | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Live Videos | javabyKiran, Page not found | javabyKiran]
+2022-08-02 19:32:51,144  INFO [main] BasePage:104 - Content links after clicking all window title matches with as expected.
+2022-08-02 19:32:51,798  INFO [main] BasePage:30 - Webdriver instance quit successfully.
+2022-08-02 19:32:51,798  INFO [main] BasePage:19 - Initializing Browser.
+2022-08-02 19:32:51,798  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:32:51,798  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:32:52,844  INFO [main] BasePage:28 - Chrome browser launched successfully.
+2022-08-02 19:32:52,992  INFO [main] BasePage:16 - Reading a config.properties file.
+2022-08-02 19:32:52,992  INFO [main] BasePage:27 - Config.properties file read Successfully.
+2022-08-02 19:32:53,822  INFO [main] BasePage:49 - Loading URL using Webdriver instance.
+2022-08-02 19:32:53,844  INFO [main] BasePage:21 - Loading login page and navigating to downloads page.
+2022-08-02 19:32:55,397  INFO [main] BasePage:34 - Verify downloads webtable data on downloads page.
+2022-08-02 19:32:57,508  INFO [main] BasePage:41 - Actual list : [01, , Java Development Kit (JDK), 1.8, 32bit, 64bit, , Official Website, 02, , Selenium Server Standalon Jar, 2.52.0 3.9.0, , , 2.52.0 3.9.0, Official Website, 03, , Selenium Server Source Jar, 2.46.0, , , Common, Official Website, 04, , Google Chrome, 76.0, 32bit, 64bit, , Official Website, 05, , Google Chrome Driver, 76.0, , , Common, Official Website, 06, , Mozilla Firefox, 69.0, 32bit, 64bit, , Official Website, 07, , Gecko Driver for Latest firefox, 0.24.0, 32bit, 64bit, , Official Website]
+2022-08-02 19:32:57,508  INFO [main] BasePage:42 - Expected list : [01, , Java Development Kit (JDK), 1.8, 32bit, 64bit, , Official Website, 02, , Selenium Server Standalon Jar, 2.52.0 3.9.0, , , 2.52.0 3.9.0, Official Website, 03, , Selenium Server Source Jar, 2.46.0, , , Common, Official Website, 04, , Google Chrome, 76.0, 32bit, 64bit, , Official Website, 05, , Google Chrome Driver, 76.0, , , Common, Official Website, 06, , Mozilla Firefox, 69.0, 32bit, 64bit, , Official Website, 07, , Gecko Driver for Latest firefox, 0.24.0, 32bit, 64bit, , Official Website]
+2022-08-02 19:32:57,508  INFO [main] BasePage:46 - Downloads table data matches with as expected.
+2022-08-02 19:32:57,508  INFO [main] BasePage:41 - Verify 32-bit system support application on downloads page.
+2022-08-02 19:32:57,894  INFO [main] BasePage:87 - Actual list : {Java Development Kit (JDK)=32bit, Mozilla Firefox=32bit, Google Chrome=32bit, Gecko Driver for Latest firefox=32bit}
+2022-08-02 19:32:57,894  INFO [main] BasePage:88 - Expected list : {Java Development Kit (JDK)=32bit, Mozilla Firefox=32bit, Google Chrome=32bit, Gecko Driver for Latest firefox=32bit}
+2022-08-02 19:32:57,894  INFO [main] BasePage:92 - Vendors name and their 32-bit system supported application matches with as expected.
+2022-08-02 19:32:57,894  INFO [main] BasePage:48 - Verify 64-bit system support application on downloads page.
+2022-08-02 19:32:58,258  INFO [main] BasePage:133 - Actual list : {Java Development Kit (JDK)=64bit, Mozilla Firefox=64bit, Google Chrome=64bit, Gecko Driver for Latest firefox=64bit}
+2022-08-02 19:32:58,258  INFO [main] BasePage:134 - Expected list : {Java Development Kit (JDK)=64bit, Mozilla Firefox=64bit, Google Chrome=64bit, Gecko Driver for Latest firefox=64bit}
+2022-08-02 19:32:58,258  INFO [main] BasePage:138 - Vendors name and their 64-bit system supported application matches with as expected.
+2022-08-02 19:32:58,258  INFO [main] BasePage:55 - Verify version of application on downloads page.
+2022-08-02 19:32:58,638  INFO [main] BasePage:168 - Actual list : {Java Development Kit (JDK)=1.8, Mozilla Firefox=69.0, Selenium Server Standalon Jar=2.52.0 3.9.0, Google Chrome=76.0, Gecko Driver for Latest firefox=0.24.0, Selenium Server Source Jar=2.46.0, Google Chrome Driver=76.0}
+2022-08-02 19:32:58,638  INFO [main] BasePage:169 - Expected list : {Java Development Kit (JDK)=1.8, Mozilla Firefox=69.0, Selenium Server Standalon Jar=2.52.0 3.9.0, Google Chrome=76.0, Gecko Driver for Latest firefox=0.24.0, Selenium Server Source Jar=2.46.0, Google Chrome Driver=76.0}
+2022-08-02 19:32:58,638  INFO [main] BasePage:173 - Vendors name and their versions matches with as expected.
+2022-08-02 19:32:58,638  INFO [main] BasePage:62 - Verify official source link of perticular application is working.
+2022-08-02 19:33:45,212  INFO [main] BasePage:222 - Official source links after clicking sixe of windows matches with as expected.
+2022-08-02 19:33:45,215  INFO [main] BasePage:69 - Verify title when clicking on logout link.
+2022-08-02 19:33:48,575  INFO [main] BasePage:250 - Logout link after clicking page title matches as expected.
+2022-08-02 19:33:49,267  INFO [main] BasePage:28 - Webdriver instance quit successfully.
